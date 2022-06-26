@@ -21,7 +21,7 @@ The objective of this project is to train a model that given the l channel of an
 1. Clone repo
 
 ```
-$ git clone git@github.com:DimitrisPatiniotis/house_valuation.git
+$ git clone git@github.com:DimitrisPatiniotis/Image-Colorization.git
 ```
 
 2. Create a virtual environment and install all requirements listed in requirements.txt
